@@ -1,4 +1,4 @@
-# Singapore Youth Mental Health Reddit Analysis
+# Mental Health Reddit Analysis
 This repository contains scripts and data for analyzing Reddit posts related to mental health issues among Singaporean youth. The project utilizes keyword expansion techniques and specific subreddit targeting to gather and analyze relevant data.
 
 ## Description
